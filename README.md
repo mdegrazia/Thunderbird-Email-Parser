@@ -10,13 +10,13 @@ and create a link to the .eml file. It will also list the attachments.
 
 
 ####Required Library 
-  Install the xlwt on Linux/OS X using:
+  Install the xlwt library on Linux/OS X using:
   
     sudo easy_install xlwt
     
   Windows:
   
-  User the xlwt installer located at https://pypi.python.org/pypi/xlwt/0.7.2
+  Use the xlwt installer located at https://pypi.python.org/pypi/xlwt/0.7.2
       
 
 ####Usage
