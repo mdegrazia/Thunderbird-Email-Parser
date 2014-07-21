@@ -4,7 +4,7 @@ Thunderbird-email-parser
 This script parses the raw emails, including deleted emails in files created by Thunderbird
 located under \Users\%USERNAME%\AppData\Roaming\Thunderbird\Profiles\[random].default\
 
-These files do not have a file extension and contain emails in MIME format
+These files do not have a file extension and contain emails in MIME format.
 It will parse the Header information(To, from, CC, BC, Date and Subject) into an Excel file
 and create a link to the .eml file. It will also list the attachments.
 
